@@ -1,0 +1,2 @@
+# DefaultListContentConfigurations
+Displays default UIDefaultListContentConfigurations
